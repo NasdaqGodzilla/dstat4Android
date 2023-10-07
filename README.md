@@ -10,4 +10,4 @@ A dstat bin that runs directly under arm64 Android, in binary format, with no de
 
 Android performance monitoring
 
-<img width="776" alt="image" src="https://github.com/NasdaqGodzilla/dstat4Android/assets/26323326/7a6cfcf5-c74d-429b-9264-68e72128d68a">
+<img width="894" alt="image" src="https://github.com/NasdaqGodzilla/dstat4Android/assets/26323326/9540bec7-efea-4905-b069-5937034c333a">
